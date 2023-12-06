@@ -1,4 +1,4 @@
-# Project Eyes
+# Project Visually Impaired
 # Real-time Object Detection with TensorFlow Lite and Smart Object Detection System
 
 ## Overview
